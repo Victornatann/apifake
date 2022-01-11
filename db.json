@@ -1,7 +1,5 @@
 [
    {
-      "prg_svc_id":347,
-      "display":347,
       "name":"GLOBO SP",
       "poster":"https://stream.comets.com.br/tva_admin/images/thumbs/63204_rede-globo-logo-0_auto_x2.jpg",
       "thumbnail":"https://stream.comets.com.br/tva_admin/images/thumbs/63204_rede-globo-logo-0_auto_x2.jpg",
@@ -9,8 +7,6 @@
       "description":"GLOBO SP"
    },
    {
-      "prg_svc_id":348,
-      "display":348,
       "name":"A&E",
       "poster":"https://stream.comets.com.br/tva_admin/images/thumbs/59982_AE-logo.jpg",
       "thumbnail":"https://stream.comets.com.br/tva_admin/images/thumbs/59982_AE-logo.jpg",
@@ -18,8 +14,6 @@
       "description":"A&E"
    },
    {
-      "prg_svc_id":349,
-      "display":349,
       "name":"ANIMAL PLANET",
       "poster":"https://stream.comets.com.br/tva_admin/images/thumbs/73099_animal_planet_thumb.png",
       "thumbnail":"https://stream.comets.com.br/tva_admin/images/thumbs/73099_animal_planet_thumb.png",
@@ -27,8 +21,6 @@
       "description":"ANIMAL PLANET"
    },
    {
-      "prg_svc_id":350,
-      "display":350,
       "name":"APARECIDA",
       "poster":"https://stream.comets.com.br/tva_admin/images/thumbs/79800_tv_aparecida.png",
       "thumbnail":"https://stream.comets.com.br/tva_admin/images/thumbs/79800_tv_aparecida.png",
@@ -36,8 +28,6 @@
       "description":"APARECIDA"
    },
    {
-      "prg_svc_id":351,
-      "display":351,
       "name":"ARTE 1",
       "poster":"https://stream.comets.com.br/tva_admin/images/thumbs/97274_arte1.png",
       "thumbnail":"https://stream.comets.com.br/tva_admin/images/thumbs/97274_arte1.png",
