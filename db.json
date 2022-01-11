@@ -1,0 +1,1262 @@
+[
+    {
+        "prg_svc_id": 347,
+        "display": 347,
+        "name": "GLOBO SP",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/63204_rede-globo-logo-0_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/63204_rede-globo-logo-0_auto_x2.jpg",
+        "stream_url": "https://main.itv.iveloz.net.br:80/stream/1/index.m3u8",
+        "description": "GLOBO SP",
+        "schedules": {
+            "schedules_id": 347,
+            "events": {
+                "programs": {
+                    "title": "GLOBO SP",
+                    "description": "GLOBO SP"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 348,
+        "display": 348,
+        "name": "A&E",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/59982_AE-logo.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/59982_AE-logo.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/47/index.m3u8",
+        "description": "A&E",
+        "schedules": {
+            "schedules_id": 348,
+            "events": {
+                "programs": {
+                    "title": "A&E",
+                    "description": "A&E"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 349,
+        "display": 349,
+        "name": "ANIMAL PLANET",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/73099_animal_planet_thumb.png",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/73099_animal_planet_thumb.png",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/21/index.m3u8",
+        "description": "ANIMAL PLANET",
+        "schedules": {
+            "schedules_id": 349,
+            "events": {
+                "programs": {
+                    "title": "ANIMAL PLANET",
+                    "description": "ANIMAL PLANET"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 350,
+        "display": 350,
+        "name": "APARECIDA",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/79800_tv_aparecida.png",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/79800_tv_aparecida.png",
+        "stream_url": "http://177.125.27.54/stream/11/index.m3u8",
+        "description": "APARECIDA",
+        "schedules": {
+            "schedules_id": 350,
+            "events": {
+                "programs": {
+                    "title": "APARECIDA",
+                    "description": "APARECIDA"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 351,
+        "display": 351,
+        "name": "ARTE 1",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/97274_arte1.png",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/97274_arte1.png",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/56/index.m3u8",
+        "description": "ARTE 1",
+        "schedules": {
+            "schedules_id": 351,
+            "events": {
+                "programs": {
+                    "title": "ARTE 1",
+                    "description": "ARTE 1"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 352,
+        "display": 352,
+        "name": "AXN",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/52614_axn.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/52614_axn.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/46/index.m3u8",
+        "description": "AXN",
+        "schedules": {
+            "schedules_id": 352,
+            "events": {
+                "programs": {
+                    "title": "AXN",
+                    "description": "AXN"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 353,
+        "display": 353,
+        "name": "BAND NEWS",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/74679_bandnws.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/74679_bandnws.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/14/index.m3u8",
+        "description": "BAND NEWS",
+        "schedules": {
+            "schedules_id": 353,
+            "events": {
+                "programs": {
+                    "title": "BAND NEWS",
+                    "description": "BAND NEWS"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 354,
+        "display": 354,
+        "name": "BAND SP",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/34010_band-76419.png",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/34010_band-76419.png",
+        "stream_url": "https://main.itv.iveloz.net.br:80/stream/5/index.m3u8",
+        "description": "BAND SP",
+        "schedules": {
+            "schedules_id": 354,
+            "events": {
+                "programs": {
+                    "title": "BAND SP",
+                    "description": "BAND SP"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 355,
+        "display": 355,
+        "name": "BAND SPORTS",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/39621_kNo3jrRg_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/39621_kNo3jrRg_auto_x2.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/15/index.m3u8",
+        "description": "BAND SPORTS",
+        "schedules": {
+            "schedules_id": 355,
+            "events": {
+                "programs": {
+                    "title": "BAND SPORTS",
+                    "description": "BAND SPORTS"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 356,
+        "display": 356,
+        "name": "CARTOON NETWORK",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/34933_cartoon.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/34933_cartoon.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/43/index.m3u8",
+        "description": "CARTOON NETWORK",
+        "schedules": {
+            "schedules_id": 356,
+            "events": {
+                "programs": {
+                    "title": "CARTOON NETWORK",
+                    "description": "CARTOON NETWORK"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 357,
+        "display": 357,
+        "name": "CNN BRASIL",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/8074_1200px-CNN_Brasil.svg.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/8074_1200px-CNN_Brasil.svg.jpg",
+        "stream_url": "https://main.itv.iveloz.net.br:80/stream/9/index.m3u8",
+        "description": "CNN BRASIL",
+        "schedules": {
+            "schedules_id": 357,
+            "events": {
+                "programs": {
+                    "title": "CNN BRASIL",
+                    "description": "CNN BRASIL"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 358,
+        "display": 358,
+        "name": "CNT",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/86645_cnt.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/86645_cnt.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/85/index.m3u8",
+        "description": "CNT",
+        "schedules": {
+            "schedules_id": 358,
+            "events": {
+                "programs": {
+                    "title": "CNT",
+                    "description": "CNT"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 359,
+        "display": 359,
+        "name": "CULTURA",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/5089_cultura.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/5089_cultura.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/62/index.m3u8",
+        "description": "CULTURA",
+        "schedules": {
+            "schedules_id": 359,
+            "events": {
+                "programs": {
+                    "title": "CULTURA",
+                    "description": "CULTURA"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 360,
+        "display": 360,
+        "name": "DISCOVERY THEATER",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/74679_theater.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/74679_theater.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/23/index.m3u8",
+        "description": "DISCOVERY THEATER",
+        "schedules": {
+            "schedules_id": 360,
+            "events": {
+                "programs": {
+                    "title": "DISCOVERY THEATER",
+                    "description": "DISCOVERY THEATER"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 361,
+        "display": 361,
+        "name": "DISCOVERY HGTV",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/40866_hgtv-logo_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/40866_hgtv-logo_auto_x2.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/18/index.m3u8",
+        "description": "DISCOVERY HGTV",
+        "schedules": {
+            "schedules_id": 361,
+            "events": {
+                "programs": {
+                    "title": "DISCOVERY HGTV",
+                    "description": "DISCOVERY HGTV"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 362,
+        "display": 362,
+        "name": "DISCOVERY H&H",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/46706_h7h3600.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/46706_h7h3600.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/19/index.m3u8",
+        "description": "DISCOVERY H&H",
+        "schedules": {
+            "schedules_id": 362,
+            "events": {
+                "programs": {
+                    "title": "DISCOVERY H&H",
+                    "description": "DISCOVERY H&H"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 363,
+        "display": 363,
+        "name": "DISCOVERY ID",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/20288_investigation-discovery-logo.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/20288_investigation-discovery-logo.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/20/index.m3u8",
+        "description": "DISCOVERY ID",
+        "schedules": {
+            "schedules_id": 363,
+            "events": {
+                "programs": {
+                    "title": "DISCOVERY ID",
+                    "description": "DISCOVERY ID"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 364,
+        "display": 364,
+        "name": "DISCOVERY KIDS",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/49705_discoverykids.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/49705_discoverykids.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/28/index.m3u8",
+        "description": "DISCOVERY KIDS",
+        "schedules": {
+            "schedules_id": 364,
+            "events": {
+                "programs": {
+                    "title": "DISCOVERY KIDS",
+                    "description": "DISCOVERY KIDS"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 365,
+        "display": 365,
+        "name": "DISCOVERY SCIENCE",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/71713_Science-Channel-logo-wordmark.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/71713_Science-Channel-logo-wordmark.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/71/index.m3u8",
+        "description": "DISCOVERY SCIENCE",
+        "schedules": {
+            "schedules_id": 365,
+            "events": {
+                "programs": {
+                    "title": "DISCOVERY SCIENCE",
+                    "description": "DISCOVERY SCIENCE"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 366,
+        "display": 366,
+        "name": "DISCOVERY TLC",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/11950_tlc_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/11950_tlc_auto_x2.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/24/index.m3u8",
+        "description": "DISCOVERY TLC",
+        "schedules": {
+            "schedules_id": 366,
+            "events": {
+                "programs": {
+                    "title": "DISCOVERY TLC",
+                    "description": "DISCOVERY TLC"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 367,
+        "display": 367,
+        "name": "DISCOVERY TURBO",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/45547_logo-turbo_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/45547_logo-turbo_auto_x2.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/17/index.m3u8",
+        "description": "DISCOVERY TURBO",
+        "schedules": {
+            "schedules_id": 367,
+            "events": {
+                "programs": {
+                    "title": "DISCOVERY TURBO",
+                    "description": "DISCOVERY TURBO"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 368,
+        "display": 368,
+        "name": "DISCOVERY WORLD",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/75445_br_discovery-world-hd_m_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/75445_br_discovery-world-hd_m_auto_x2.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/22/index.m3u8",
+        "description": "DISCOVERY WORLD",
+        "schedules": {
+            "schedules_id": 368,
+            "events": {
+                "programs": {
+                    "title": "DISCOVERY WORLD",
+                    "description": "DISCOVERY WORLD"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 369,
+        "display": 369,
+        "name": "E!",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/5323_ELogo_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/5323_ELogo_auto_x2.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/44/index.m3u8",
+        "description": "E!",
+        "schedules": {
+            "schedules_id": 369,
+            "events": {
+                "programs": {
+                    "title": "E!",
+                    "description": "E!"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 370,
+        "display": 370,
+        "name": "FASHION",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/64010_fashion-tv-logo-png-3.png",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/64010_fashion-tv-logo-png-3.png",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/49/index.m3u8",
+        "description": "FASHION",
+        "schedules": {
+            "schedules_id": 370,
+            "events": {
+                "programs": {
+                    "title": "FASHION",
+                    "description": "FASHION"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 371,
+        "display": 371,
+        "name": "FOX SPORTS 1",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/21446_fox-sports-logo-0.png",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/21446_fox-sports-logo-0.png",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/27/index.m3u8",
+        "description": "FOX SPORTS 1",
+        "schedules": {
+            "schedules_id": 371,
+            "events": {
+                "programs": {
+                    "title": "FOX SPORTS 1",
+                    "description": "FOX SPORTS 1"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 372,
+        "display": 372,
+        "name": "FOX SPORTS 2",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/25711_foxsports2_auto_x2.png",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/25711_foxsports2_auto_x2.png",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/31/index.m3u8",
+        "description": "FOX SPORTS 2",
+        "schedules": {
+            "schedules_id": 372,
+            "events": {
+                "programs": {
+                    "title": "FOX SPORTS 2",
+                    "description": "FOX SPORTS 2"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 373,
+        "display": 373,
+        "name": "FX",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/61485_fx_logo.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/61485_fx_logo.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/29/index.m3u8",
+        "description": "FX",
+        "schedules": {
+            "schedules_id": 373,
+            "events": {
+                "programs": {
+                    "title": "FX",
+                    "description": "FX"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 374,
+        "display": 374,
+        "name": "GAZETA",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/92308_gazeta_auto_x2_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/92308_gazeta_auto_x2_auto_x2.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/79/index.m3u8",
+        "description": "GAZETA",
+        "schedules": {
+            "schedules_id": 374,
+            "events": {
+                "programs": {
+                    "title": "GAZETA",
+                    "description": "GAZETA"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 375,
+        "display": 375,
+        "name": "H2",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/84213_h2-1024x576_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/84213_h2-1024x576_auto_x2.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/54/index.m3u8",
+        "description": "H2",
+        "schedules": {
+            "schedules_id": 375,
+            "events": {
+                "programs": {
+                    "title": "H2",
+                    "description": "H2"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 376,
+        "display": 376,
+        "name": "HISTORY",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/42260_maxihistorylogo_auto_x2_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/42260_maxihistorylogo_auto_x2_auto_x2.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/50/index.m3u8",
+        "description": "HISTORY",
+        "schedules": {
+            "schedules_id": 376,
+            "events": {
+                "programs": {
+                    "title": "HISTORY",
+                    "description": "HISTORY"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 377,
+        "display": 377,
+        "name": "LIFETIME",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/5431_lifetime_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/5431_lifetime_auto_x2.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/51/index.m3u8",
+        "description": "LIFETIME",
+        "schedules": {
+            "schedules_id": 377,
+            "events": {
+                "programs": {
+                    "title": "LIFETIME",
+                    "description": "LIFETIME"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 378,
+        "display": 378,
+        "name": "IDEAL TV",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/98817_Loading-logo.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/98817_Loading-logo.jpg",
+        "stream_url": "https://itv.iveloz.net.br/stream/68/index.m3u8",
+        "description": "IDEAL TV",
+        "schedules": {
+            "schedules_id": 378,
+            "events": {
+                "programs": {
+                    "title": "IDEAL TV",
+                    "description": "IDEAL TV"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 379,
+        "display": 379,
+        "name": "MAIS FAMILIA",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/79276_redemaisfamilia_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/79276_redemaisfamilia_auto_x2.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/78/index.m3u8",
+        "description": "MAIS FAMILIA",
+        "schedules": {
+            "schedules_id": 379,
+            "events": {
+                "programs": {
+                    "title": "MAIS FAMILIA",
+                    "description": "MAIS FAMILIA"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 380,
+        "display": 380,
+        "name": "MEGATV",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/56141_megatv-thumbs.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/56141_megatv-thumbs.jpg",
+        "stream_url": "https://itv.iveloz.net.br/stream/66/index.m3u8",
+        "description": "MEGATV",
+        "schedules": {
+            "schedules_id": 380,
+            "events": {
+                "programs": {
+                    "title": "MEGATV",
+                    "description": "MEGATV"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 381,
+        "display": 381,
+        "name": "MUSIC BOX BRASIL",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/50035_musicbox.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/50035_musicbox.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/36/index.m3u8",
+        "description": "MUSIC BOX BRASIL",
+        "schedules": {
+            "schedules_id": 381,
+            "events": {
+                "programs": {
+                    "title": "MUSIC BOX BRASIL",
+                    "description": "MUSIC BOX BRASIL"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 382,
+        "display": 382,
+        "name": "PRIME BOX BRASIL",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/82982_LOGO-PRIME-BOX-BRAZIL.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/82982_LOGO-PRIME-BOX-BRAZIL.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/37/index.m3u8",
+        "description": "PRIME BOX BRASIL",
+        "schedules": {
+            "schedules_id": 382,
+            "events": {
+                "programs": {
+                    "title": "PRIME BOX BRASIL",
+                    "description": "PRIME BOX BRASIL"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 383,
+        "display": 383,
+        "name": "TRAVEL BOX BRASIL",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/75676_TravelBoxBrazillogoatualizado.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/75676_TravelBoxBrazillogoatualizado.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/38/index.m3u8",
+        "description": "TRAVEL BOX BRASIL",
+        "schedules": {
+            "schedules_id": 383,
+            "events": {
+                "programs": {
+                    "title": "TRAVEL BOX BRASIL",
+                    "description": "TRAVEL BOX BRASIL"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 384,
+        "display": 384,
+        "name": "NAT GEO",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/89628_nat-geo.png",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/89628_nat-geo.png",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/34/index.m3u8",
+        "description": "NAT GEO",
+        "schedules": {
+            "schedules_id": 384,
+            "events": {
+                "programs": {
+                    "title": "NAT GEO",
+                    "description": "NAT GEO"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 385,
+        "display": 385,
+        "name": "NATE GEO WILD",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/37941_natgeo+wild_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/37941_natgeo+wild_auto_x2.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/30/index.m3u8",
+        "description": "NATE GEO WILD",
+        "schedules": {
+            "schedules_id": 385,
+            "events": {
+                "programs": {
+                    "title": "NATE GEO WILD",
+                    "description": "NATE GEO WILD"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 386,
+        "display": 386,
+        "name": "RATIMBUM",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/4852_TV_Rá-Tim-Bum_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/4852_TV_Rá-Tim-Bum_auto_x2.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/39/index.m3u8",
+        "description": "RATIMBUM",
+        "schedules": {
+            "schedules_id": 386,
+            "events": {
+                "programs": {
+                    "title": "RATIMBUM",
+                    "description": "RATIMBUM"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 387,
+        "display": 387,
+        "name": "RBI",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/45817_rbi.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/45817_rbi.jpg",
+        "stream_url": "https://itv.iveloz.net.br/stream/69/index.m3u8",
+        "description": "RBI",
+        "schedules": {
+            "schedules_id": 387,
+            "events": {
+                "programs": {
+                    "title": "RBI",
+                    "description": "RBI"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 388,
+        "display": 388,
+        "name": "RECORD NEWS",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/59434_record-news_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/59434_record-news_auto_x2.jpg",
+        "stream_url": "https://main.itv.iveloz.net.br:80/stream/4/index.m3u8",
+        "description": "RECORD NEWS",
+        "schedules": {
+            "schedules_id": 388,
+            "events": {
+                "programs": {
+                    "title": "RECORD NEWS",
+                    "description": "RECORD NEWS"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 389,
+        "display": 389,
+        "name": "RECORD",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/53659_record-tv.jpeg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/53659_record-tv.jpeg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/106/index.m3u8",
+        "description": "RECORD",
+        "schedules": {
+            "schedules_id": 389,
+            "events": {
+                "programs": {
+                    "title": "RECORD",
+                    "description": "RECORD"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 390,
+        "display": 390,
+        "name": "REDETV",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/22713_logo-redetv.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/22713_logo-redetv.jpg",
+        "stream_url": "https://main.itv.iveloz.net.br:80/stream/6/index.m3u8",
+        "description": "REDETV",
+        "schedules": {
+            "schedules_id": 390,
+            "events": {
+                "programs": {
+                    "title": "REDETV",
+                    "description": "REDETV"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 391,
+        "display": 391,
+        "name": "REDE VIDA",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/28807_Rede_Vida_logo_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/28807_Rede_Vida_logo_auto_x2.jpg",
+        "stream_url": "https://main.itv.iveloz.net.br:80/stream/8/index.m3u8",
+        "description": "REDE VIDA",
+        "schedules": {
+            "schedules_id": 391,
+            "events": {
+                "programs": {
+                    "title": "REDE VIDA",
+                    "description": "REDE VIDA"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 392,
+        "display": 392,
+        "name": "RPT AMERICA",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/54660_rtpint_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/54660_rtpint_auto_x2.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/58/index.m3u8",
+        "description": "RPT AMERICA",
+        "schedules": {
+            "schedules_id": 392,
+            "events": {
+                "programs": {
+                    "title": "RPT AMERICA",
+                    "description": "RPT AMERICA"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 393,
+        "display": 393,
+        "name": "SBT",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/64054_SBT_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/64054_SBT_auto_x2.jpg",
+        "stream_url": "https://main.itv.iveloz.net.br:80/stream/2/index.m3u8",
+        "description": "SBT",
+        "schedules": {
+            "schedules_id": 393,
+            "events": {
+                "programs": {
+                    "title": "SBT",
+                    "description": "SBT"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 394,
+        "display": 394,
+        "name": "SONY",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/3270_Sony_Channel_Logo.png",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/3270_Sony_Channel_Logo.png",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/48/index.m3u8",
+        "description": "SONY",
+        "schedules": {
+            "schedules_id": 394,
+            "events": {
+                "programs": {
+                    "title": "SONY",
+                    "description": "SONY"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 395,
+        "display": 395,
+        "name": "SPACE",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/35987_Space_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/35987_Space_auto_x2.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/41/index.m3u8",
+        "description": "SPACE",
+        "schedules": {
+            "schedules_id": 395,
+            "events": {
+                "programs": {
+                    "title": "SPACE",
+                    "description": "SPACE"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 396,
+        "display": 396,
+        "name": "STAR CHANNEL",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/14706_star-channel-1024x683.png",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/14706_star-channel-1024x683.png",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/25/index.m3u8",
+        "description": "STAR CHANNEL",
+        "schedules": {
+            "schedules_id": 396,
+            "events": {
+                "programs": {
+                    "title": "STAR CHANNEL",
+                    "description": "STAR CHANNEL"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 397,
+        "display": 397,
+        "name": "STAR LIFE",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/16997_logo-star-life_fa973702_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/16997_logo-star-life_fa973702_auto_x2.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/26/index.m3u8",
+        "description": "STAR LIFE",
+        "schedules": {
+            "schedules_id": 397,
+            "events": {
+                "programs": {
+                    "title": "STAR LIFE",
+                    "description": "STAR LIFE"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 398,
+        "display": 398,
+        "name": "TBS",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/81824_Tbs.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/81824_Tbs.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/33/index.m3u8",
+        "description": "TBS",
+        "schedules": {
+            "schedules_id": 398,
+            "events": {
+                "programs": {
+                    "title": "TBS",
+                    "description": "TBS"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 399,
+        "display": 399,
+        "name": "TCM",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/81134_Turner_Classic_Movies_(TCM,_Latin_America)_-_2015_logo.png",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/81134_Turner_Classic_Movies_(TCM,_Latin_America)_-_2015_logo.png",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/52/index.m3u8",
+        "description": "TCM",
+        "schedules": {
+            "schedules_id": 399,
+            "events": {
+                "programs": {
+                    "title": "TCM",
+                    "description": "TCM"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 400,
+        "display": 400,
+        "name": "TNT",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/98320_tnt.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/98320_tnt.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/42/index.m3u8",
+        "description": "TNT",
+        "schedules": {
+            "schedules_id": 400,
+            "events": {
+                "programs": {
+                    "title": "TNT",
+                    "description": "TNT"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 401,
+        "display": 401,
+        "name": "TNT SERIES",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/57589_TNTSeries_Color_POR_Hor_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/57589_TNTSeries_Color_POR_Hor_auto_x2.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/35/index.m3u8",
+        "description": "TNT SERIES",
+        "schedules": {
+            "schedules_id": 401,
+            "events": {
+                "programs": {
+                    "title": "TNT SERIES",
+                    "description": "TNT SERIES"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 402,
+        "display": 402,
+        "name": "TOONCAST",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/20385_origini_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/20385_origini_auto_x2.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/40/index.m3u8",
+        "description": "TOONCAST",
+        "schedules": {
+            "schedules_id": 402,
+            "events": {
+                "programs": {
+                    "title": "TOONCAST",
+                    "description": "TOONCAST"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 403,
+        "display": 403,
+        "name": "DISCOVERY CHANNEL",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/75533_Discovery+Channel.png",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/75533_Discovery+Channel.png",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/16/index.m3u8",
+        "description": "DISCOVERY CHANNEL",
+        "schedules": {
+            "schedules_id": 403,
+            "events": {
+                "programs": {
+                    "title": "DISCOVERY CHANNEL",
+                    "description": "DISCOVERY CHANNEL"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 404,
+        "display": 404,
+        "name": "TOPTV",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/68215_LOGO_TOP_TV_HD.png",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/68215_LOGO_TOP_TV_HD.png",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/105/index.m3u8",
+        "description": "TOPTV",
+        "schedules": {
+            "schedules_id": 404,
+            "events": {
+                "programs": {
+                    "title": "TOPTV",
+                    "description": "TOPTV"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 405,
+        "display": 405,
+        "name": "TRIP BRASIL",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/97655_download.png",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/97655_download.png",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/80/index.m3u8",
+        "description": "TRIP BRASIL",
+        "schedules": {
+            "schedules_id": 405,
+            "events": {
+                "programs": {
+                    "title": "TRIP BRASIL",
+                    "description": "TRIP BRASIL"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 406,
+        "display": 406,
+        "name": "TRUTV",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/16338_trutv_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/16338_trutv_auto_x2.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/55/index.m3u8",
+        "description": "TRUTV",
+        "schedules": {
+            "schedules_id": 406,
+            "events": {
+                "programs": {
+                    "title": "TRUTV",
+                    "description": "TRUTV"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 407,
+        "display": 407,
+        "name": "TVDIARIO",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/58976_tvdiario.png",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/58976_tvdiario.png",
+        "stream_url": "https://main.itv.iveloz.net.br:80/stream/10/index.m3u8",
+        "description": "TVDIARIO",
+        "schedules": {
+            "schedules_id": 407,
+            "events": {
+                "programs": {
+                    "title": "TVDIARIO",
+                    "description": "TVDIARIO"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 408,
+        "display": 408,
+        "name": "TV JUSTICA",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/43358_justica.jpg.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/43358_justica.jpg.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/65/index.m3u8",
+        "description": "TV JUSTICA",
+        "schedules": {
+            "schedules_id": 408,
+            "events": {
+                "programs": {
+                    "title": "TV JUSTICA",
+                    "description": "TV JUSTICA"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 409,
+        "display": 409,
+        "name": "TV TEMPLO",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/47007_y5s4dk4B_auto_x2.png",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/47007_y5s4dk4B_auto_x2.png",
+        "stream_url": "http://177.125.27.14/TVTEMPLO/TVTEMPLO.stream/playlist.m3u8",
+        "description": "TV TEMPLO",
+        "schedules": {
+            "schedules_id": 409,
+            "events": {
+                "programs": {
+                    "title": "TV TEMPLO",
+                    "description": "TV TEMPLO"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 410,
+        "display": 410,
+        "name": "WARNER",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/8295_Warner2018LA.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/8295_Warner2018LA.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/45/index.m3u8",
+        "description": "WARNER",
+        "schedules": {
+            "schedules_id": 410,
+            "events": {
+                "programs": {
+                    "title": "WARNER",
+                    "description": "WARNER"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 411,
+        "display": 411,
+        "name": "CARTOONITO",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/14618_cartoonitobranco.png",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/14618_cartoonitobranco.png",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/32/index.m3u8",
+        "description": "CARTOONITO",
+        "schedules": {
+            "schedules_id": 411,
+            "events": {
+                "programs": {
+                    "title": "CARTOONITO",
+                    "description": "CARTOONITO"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 412,
+        "display": 412,
+        "name": "FUTURA",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/55129_futura_auto_x2_auto_x2_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/55129_futura_auto_x2_auto_x2_auto_x2.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/61/index.m3u8",
+        "description": "FUTURA",
+        "schedules": {
+            "schedules_id": 412,
+            "events": {
+                "programs": {
+                    "title": "FUTURA",
+                    "description": "FUTURA"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 413,
+        "display": 413,
+        "name": "TV NOVO TEMPO",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/45696_TVNOVOTEMPO.jpg_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/45696_TVNOVOTEMPO.jpg_auto_x2.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/77/index.m3u8",
+        "description": "TV NOVO TEMPO",
+        "schedules": {
+            "schedules_id": 413,
+            "events": {
+                "programs": {
+                    "title": "TV NOVO TEMPO",
+                    "description": "TV NOVO TEMPO"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 414,
+        "display": 414,
+        "name": "TV ESCOLA",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/42143_tvescola.jpg.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/42143_tvescola.jpg.jpg",
+        "stream_url": "https://main.itv.iveloz.net.br:80/stream/13/index.m3u8",
+        "description": "TV ESCOLA",
+        "schedules": {
+            "schedules_id": 414,
+            "events": {
+                "programs": {
+                    "title": "TV ESCOLA",
+                    "description": "TV ESCOLA"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 415,
+        "display": 415,
+        "name": "CINE BRASIL",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/74633_zIBl0sTk_400x400_auto_x2_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/74633_zIBl0sTk_400x400_auto_x2_auto_x2.jpg",
+        "stream_url": "https://itv.iveloz.net.br:80/stream/59/index.m3u8",
+        "description": "CINE BRASIL",
+        "schedules": {
+            "schedules_id": 415,
+            "events": {
+                "programs": {
+                    "title": "CINE BRASIL",
+                    "description": "CINE BRASIL"
+                }
+            }
+        }
+    },
+    {
+        "prg_svc_id": 416,
+        "display": 416,
+        "name": "REDE VIDA EDUCACAO",
+        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/87939_28-pelo-brasil-rede-vida-educacao01_auto_x2.jpg",
+        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/87939_28-pelo-brasil-rede-vida-educacao01_auto_x2.jpg",
+        "stream_url": "https://itv.iveloz.net.br/stream/75/index.m3u8",
+        "description": "REDE VIDA EDUCACAO",
+        "schedules": {
+            "schedules_id": 416,
+            "events": {
+                "programs": {
+                    "title": "REDE VIDA EDUCACAO",
+                    "description": "REDE VIDA EDUCACAO"
+                }
+            }
+        }
+    }
+]
