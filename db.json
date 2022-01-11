@@ -88,24 +88,5 @@
                 }
             }
         }
-    },
-    {
-        "prg_svc_id": 352,
-        "display": 352,
-        "name": "AXN",
-        "poster": "https://stream.comets.com.br/tva_admin/images/thumbs/52614_axn.jpg",
-        "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/52614_axn.jpg",
-        "stream_url": "https://itv.iveloz.net.br:80/stream/46/index.m3u8",
-        "description": "AXN",
-        "schedules": {
-            "schedules_id": 352,
-            "events": {
-                "programs": {
-                    "title": "AXN",
-                    "description": "AXN"
-                }
-            }
-        }
     }
-  
 ]
