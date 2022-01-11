@@ -7,15 +7,6 @@
         "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/63204_rede-globo-logo-0_auto_x2.jpg",
         "stream_url": "https://main.itv.iveloz.net.br:80/stream/1/index.m3u8",
         "description": "GLOBO SP",
-        "schedules": {
-            "schedules_id": 347,
-            "events": {
-                "programs": {
-                    "title": "GLOBO SP",
-                    "description": "GLOBO SP"
-                }
-            }
-        }
     },
     {
         "prg_svc_id": 348,
@@ -25,15 +16,6 @@
         "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/59982_AE-logo.jpg",
         "stream_url": "https://itv.iveloz.net.br:80/stream/47/index.m3u8",
         "description": "A&E",
-        "schedules": {
-            "schedules_id": 348,
-            "events": {
-                "programs": {
-                    "title": "A&E",
-                    "description": "A&E"
-                }
-            }
-        }
     },
     {
         "prg_svc_id": 349,
@@ -43,15 +25,6 @@
         "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/73099_animal_planet_thumb.png",
         "stream_url": "https://itv.iveloz.net.br:80/stream/21/index.m3u8",
         "description": "ANIMAL PLANET",
-        "schedules": {
-            "schedules_id": 349,
-            "events": {
-                "programs": {
-                    "title": "ANIMAL PLANET",
-                    "description": "ANIMAL PLANET"
-                }
-            }
-        }
     },
     {
         "prg_svc_id": 350,
@@ -61,15 +34,6 @@
         "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/79800_tv_aparecida.png",
         "stream_url": "http://177.125.27.54/stream/11/index.m3u8",
         "description": "APARECIDA",
-        "schedules": {
-            "schedules_id": 350,
-            "events": {
-                "programs": {
-                    "title": "APARECIDA",
-                    "description": "APARECIDA"
-                }
-            }
-        }
     },
     {
         "prg_svc_id": 351,
@@ -79,14 +43,5 @@
         "thumbnail": "https://stream.comets.com.br/tva_admin/images/thumbs/97274_arte1.png",
         "stream_url": "https://itv.iveloz.net.br:80/stream/56/index.m3u8",
         "description": "ARTE 1",
-        "schedules": {
-            "schedules_id": 351,
-            "events": {
-                "programs": {
-                    "title": "ARTE 1",
-                    "description": "ARTE 1"
-                }
-            }
-        }
     }
 ]
